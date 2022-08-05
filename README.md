@@ -1,4 +1,7 @@
-# Cost-Prediction
+# Prediction of shipment Cost Land Transport at DB Schenker
+
+## Goal of the Project
+To build an accurate model to predict the costs using the land transport data obtained from January 2017 till January 2019.
 
 ## Requirements
 
